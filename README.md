@@ -1,30 +1,16 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Henrique Cordeiro
-=========================================================================================================================================
+# 💫 About Me:
+Aos 29 anos, estou conduzindo uma transição estratégica de carreira: depois de 7 anos de experiência consolidada em logística, estou direcionando minha trajetória para o desenvolvimento back-end, com foco principal em Java. Essa vivência prévia me proporcionou uma forte mentalidade de otimização de processos e resolução de problemas, habilidades que agora aplico no universo da tecnologia.
 
-Backend Developer
------------------
+Atualmente, sou estudante de Análise e Desenvolvimento de Sistemas na Unisinos, construindo uma base técnica sólida e constantemente aplicando o que aprendo em projetos práticos em Java. Tenho explorado em profundidade temas como persistência de dados, criação e consumo de APIs RESTful e o uso do Spring Boot para desenvolver aplicações escaláveis e eficientes.
 
-I'm currently transitioning into software development, with a focus on Java back-end. I've been dedicating time to hands-on learning, building personal projects, and applying concepts such as object-oriented programming, system design, and RESTful APIs.
+Além disso, possuo conhecimento em Python (focado em automação e análise de dados) e familiaridade com Linux e infraestrutura de TI, o que me dá uma visão mais ampla do ciclo completo de uma aplicação — da codificação ao deploy.
 
-I'm also pursuing a degree in Systems Analysis and Development, applying the knowledge in logistics-related solutions within my current role.
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henrique-cordeiro-72060b202/) 
 
-My goal is to strengthen my Java skills and grow into a back-end developer role.
-
-* 🌍  I'm based in Porto Alegre, RS
-* ✉️  You can contact me at [cdhnr@icloud.com](mailto:cdhnr@icloud.com)
-
-### Skills
-
-
-<p align="left">
-<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" title="Java"/></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" title="Python"/></a>
-</p>
-
-
-### Socials
-
-<p align="left"> <a href="https://www.github.com/cdhnr" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="Github" title="Github" /> </picture> </a> <a href="http://www.instagram.com/1hcdr" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" alt="Instragram" title="Instragram" /> </picture> </a> <a href="https://www.linkedin.com/in/henrique-cordeiro-72060b202/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a></p>
-
-### Badges
-
-<a href="https://github.com/cdhnr" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cdhnr&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=cdhnr&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=cdhnr&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=cdhnr&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
