@@ -1,9 +1,11 @@
-# 💫 About Me:
-Aos 29 anos, estou conduzindo uma transição estratégica de carreira: depois de 7 anos de experiência consolidada em logística, estou direcionando minha trajetória para o desenvolvimento back-end, com foco principal em Java. Essa vivência prévia me proporcionou uma forte mentalidade de otimização de processos e resolução de problemas, habilidades que agora aplico no universo da tecnologia.
+# 💫 About me:
+Estudante de Análise e Desenvolvimento de Sistemas na Unisinos, com previsão de formatura em 2027, onde venho aprofundando fundamentos de lógica, orientação a objetos, arquitetura de software, banco de dados, metodologias ágeis e sistemas operacionais.
 
-Atualmente, sou estudante de Análise e Desenvolvimento de Sistemas na Unisinos, construindo uma base técnica sólida e constantemente aplicando o que aprendo em projetos práticos em Java. Tenho explorado em profundidade temas como persistência de dados, criação e consumo de APIs RESTful e o uso do Spring Boot para desenvolver aplicações escaláveis e eficientes.
+Paralelamente, desenvolvo projetos em Java e Spring Boot com foco em APIs REST, POO, coleções, JDBC, persistência de dados e boas práticas de código. Também utilizo Python para automações e tenho experiência com Linux, o que amplia minha visão técnica e minha autonomia na construção de soluções.
 
-Além disso, possuo conhecimento em Python (focado em automação e análise de dados) e familiaridade com Linux e infraestrutura de TI, o que me dá uma visão mais ampla do ciclo completo de uma aplicação — da codificação ao deploy.
+Estou em migração de carreira para me tornar um Desenvolvedor Backend e atuo há 7 anos na área de logística, trabalhando com cadastros, auditorias, conferência de dados, integrações e melhorias de processos. Esse histórico fortaleceu minha capacidade analítica, organização e resolução de problemas, habilidades que agora direciono para o desenvolvimento Backend.
+
+Meu objetivo é atuar como Desenvolvedor Backend, contribuindo com soluções robustas e escaláveis.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henrique-cordeiro-72060b202/) 
