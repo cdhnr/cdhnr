@@ -2,7 +2,7 @@
   <h6>Languages:</h6>
   <img src="https://img.shields.io/badge/PYTHON-%20?style=flat-square&logo=python&logoColor=white&color=01004d" height="16"/>
   <h6>Frameworks:</h6>
-  <img src="https://img.shields.io/badge/SPRING-%20?style=flat-square&logo=spring&logoColor=white&color=01004d" height="16" />
+  
   <h6>Tools:</h6>
   <img height="16" src="https://img.shields.io/badge/LINUX-%20?style=flat-square&logo=linux&logoColor=white&color=01004d" />
   <img height="16" src="https://img.shields.io/badge/INTELLIJ-%20?style=flat-square&logo=intellijidea&logoColor=white&color=01004d" />
