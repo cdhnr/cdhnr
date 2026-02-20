@@ -6,9 +6,12 @@
   <h6>Tools:</h6>
   <img height="16" src="https://img.shields.io/badge/LINUX-%20?style=flat-square&logo=linux&logoColor=white&color=01004d" />
   <img height="16" src="https://img.shields.io/badge/INTELLIJ-%20?style=flat-square&logo=intellijidea&logoColor=white&color=01004d" />
+  <img height="16" src="https://img.shields.io/badge/VSCODE-%20?style=flat-square&logo=vscode&logoColor=white&color=01004d" />
+  
   <h6>Learning:</h6>
   <img src="https://img.shields.io/badge/JAVA-%20?style=flat-square&logo=java&logoColor=white&color=01004d" height="16" />
   <img src="https://img.shields.io/badge/SHELL-%20?style=flat-square&logo=gnubash&logoColor=white&color=01004d" height="16" />
+  
   
 
 </div>
