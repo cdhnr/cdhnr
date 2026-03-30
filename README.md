@@ -25,6 +25,6 @@
 <a href="#">
   <img align="right" src="https://komarev.com/ghpvc/?username=cdhnr&style=flat-square" height="20" />
 </a>
-<a target="_blank" href="https://www.linkedin.com/in/henrique-cordeiro-72060b202/">
+<a target="_blank" href="https://www.linkedin.com/in/hnrcdr/">
   <img align="right" src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&color=0e76a8" height="20" />
 </a>
