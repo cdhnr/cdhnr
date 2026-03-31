@@ -5,18 +5,16 @@
   <img src="https://img.shields.io/badge/PYTHON-%20?style=flat-square&logo=python&logoColor=white&color=01004d" height="20"/>
   
   <h6>Tools:</h6>
-  <img height="20" src="https://img.shields.io/badge/LINUX-%20?style=flat-square&logo=linux&logoColor=white&color=01004d" />
   <img height="20" src="https://img.shields.io/badge/-GITHUB-181717?style=flat-square&logo=github&logoColor=white&color=01004d" />
 
   <h6>IDEs:</h6>
-  <img height="20" src="https://img.shields.io/badge/ECLIPSE-%20?style=flat-square&logo=eclipseide&logoColor=white&color=01004d" />
   <img height="20" src="https://img.shields.io/badge/VSCODE-%20?style=flat-square&logo=vscode&logoColor=white&color=01004d" />
 
   <h6>Frameworks:</h6>
   
   <h6>Learning:</h6>
-  <img src="https://img.shields.io/badge/JAVA-%20?style=flat-square&logo=java&logoColor=white&color=01004d" height="20" />
-  <img src="https://img.shields.io/badge/SHELL-%20?style=flat-square&logo=gnubash&logoColor=white&color=01004d" height="20" />
+  <img height="20" src="https://img.shields.io/badge/LINUX-%20?style=flat-square&logo=linux&logoColor=white&color=01004d" />
+  <img src="https://img.shields.io/badge/BASH-%20?style=flat-square&logo=gnubash&logoColor=white&color=01004d" height="20" />
   
   
 
